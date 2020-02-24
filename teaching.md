@@ -14,6 +14,7 @@ https://cs.marlboro.college/cours/spring2020/data/sys/assignments
 
 6. http://composingprograms.com/pages/23-sequences.html#sequence-processing
 
+7. https://github.com/rstudio-conf-2020
 
 
 
