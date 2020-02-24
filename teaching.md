@@ -16,6 +16,8 @@ https://cs.marlboro.college/cours/spring2020/data/sys/assignments
 
 7. https://github.com/rstudio-conf-2020
 
+8. https://pdos.csail.mit.edu/6.828/2019/
+
 
 
 
