@@ -18,7 +18,18 @@ https://cs.marlboro.college/cours/spring2020/data/sys/assignments
 
 8. https://pdos.csail.mit.edu/6.828/2019/
 
+9. CS234: Reinforcement Learning Winter 2020
+https://web.stanford.edu/class/cs234/
 
+10.Python short course for graduates in biology and biochemistry
+https://github.com/grokkaine/biopycourse
 
+11. Algebra I
+https://www.khanacademy.org/math/engageny-alg-1
+
+12. HarvardX Biomedical Data Science Open Online Training
+https://rafalab.github.io/pages/harvardx.html
+
+13. 
 
 
