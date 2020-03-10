@@ -30,6 +30,7 @@ https://www.khanacademy.org/math/engageny-alg-1
 12. HarvardX Biomedical Data Science Open Online Training
 https://rafalab.github.io/pages/harvardx.html
 
-13. 
+13. Bioconductor for Genomic Data Science
+https://kasperdanielhansen.github.io/genbioconductor/
 
 
